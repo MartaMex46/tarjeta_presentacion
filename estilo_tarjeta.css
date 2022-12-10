@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(184, 179, 184);
+}
+
+#tarjeta{
+    width: 600px;
+    height: 800px;
+    background-color: rgb(155, 170, 195);
+    position: relative;
+    left:10%;
+    right: 10%;
+    top:50px;
+    bottom: 50px;
+}
+
+#usuario{
+    width: 150px;
+    height: 150px;
+    background: white;
+    border: solid rgb(6, 37, 70) 11px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 10em;
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+    top: 75px;
+}
+
+#datos{
+    width: 370px;
+    height: 400px;
+    background-color: rgb(5, 95, 120);
+    margin: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#datos{
+    background-color: rgb(12, 124, 120);
+}
+
+#informacion{
+    text-align: center;
+    padding-top: 20%;
+}
+
+#nombre{
+    height: 25px;
+    color: rgb(6,37,70);
+    font-size: 2.2em;
+    font-weight: bold;
+}
+
+#correo{
+    color:white;
+    font-size: 1.2em;
+}
+
+#cargo{
+    color:white;
+    font-weight: bold;
+    font-size: 25px;
+    height: 25px;
+}
+
+#redes{
+    margin: auto;
+    color:white;
+    border-spacing: 18px;
+    font-size: 1.7em;
+    text-align: center;
+    position: relative;
+    top:20px;
+}
+
+td{
+    width: 55px;
+    height: 55px;
+    background-color: rgb(6,37,70);
+    border-radius: 50%;   
+}
+
+#pie{
+    width: 370px;
+    height: 50px;
+    color:white;
+    font-size: 20px;
+    padding-top:30px;
+    text-align: center;
+    background-color: rgb(6, 37, 70); 
+    margin: auto;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
